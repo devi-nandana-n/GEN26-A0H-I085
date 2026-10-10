@@ -1,8 +1,8 @@
 # Genesis 2026: Ideathon
-##Team ID
+Team ID
 GEN26-A0H-I085
 ### Team Details
-#### **Team Name** Innovate </br>
+#### **Team Name:** Innovate </br>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hostel Details  |
 |:---------------:|:------------------------|:----------------------:|:----------------:|:------------------------------:|:------------------------------:| 
